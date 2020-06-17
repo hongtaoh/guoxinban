@@ -13,7 +13,7 @@ tags = [
 author = "David Li & Michael Li"
 +++
 
-{{<figure src="/images/post/clothing-exhibit.jpg" title="Film-makers ask one staffer to explain the aim of their unique exhibit of handmade Chinese clothes" caption="Photo: Michael Li">}}
+{{<figure src="/images/post/clothing-exhibit.jpg" title="Film-makers asking one staffer to explain the aim of their unique exhibit of handmade Chinese clothes" caption="Photo: Michael Li">}}
 
 **BEIJING** – A unique, six-month exhibition on handmade Chinese apparel has gained renewed attention at its last stage, as Figure Video, which specializing in cultural celebrities, started shooting a documentary about it at the Backstreet Art-Museum.
 
