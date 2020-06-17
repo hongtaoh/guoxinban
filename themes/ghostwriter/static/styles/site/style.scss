@@ -2,7 +2,7 @@
 // ============================================================ //
 // ============================================================ //
 
-$primary: #AE0B2A;
+$primary: #ae0b2a;
 $secondary: #303030;
 $background: #FEFEFE;
 
@@ -285,6 +285,7 @@ table {
     margin: 0 0 20px;
     padding: 0 0 20px;
     text-align: center;
+    text-transform: uppercase;
 }
 
 .post-title,
@@ -293,6 +294,7 @@ table {
     font-weight: 700;
     margin: 15px 0;
     text-align: center;
+    text-transform: uppercase;
 }
 
 .page-title { margin: 15px 40px; }
@@ -516,6 +518,7 @@ table {
     line-height: 1;
     margin: 25px 0 0;
     text-align: center;
+    text-transform: uppercase;
 
     span {
         display: inline-block;
@@ -554,14 +557,14 @@ table {
 }
 
 .footer-copyright {
-    color: #656565;
+    color: #ae0b2a;
     font-size: 14px;
     margin: 0;
     text-align: center;
     text-transform: uppercase;
 
     a {
-        color: #ae0b2a;
+        color: #656565;
         font-weight: 700;
 
         &:hover { color: #FEFEFE; }
