@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on 人大国新班 2016 级</title>
+    <link>https://rucer.netlify.app/assignment/</link>
+    <description>Recent content in Assignments on 人大国新班 2016 级</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://rucer.netlify.app/assignment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First assignment</title>
+      <link>https://rucer.netlify.app/assignment/assignmentone/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://rucer.netlify.app/assignment/assignmentone/</guid>
+      <description>By Michael J. Jordan, Visiting Professor, Renmin University of China Our first course assignment – which generated this batch of stories – was to spotlight any News story on campus.
+However, as I instructed the students, do NOT produce your story as if for the campus newspaper – for a local, “insider” audience. Instead, as if for a global news agency, aiming for that “smart, curious, international audience.”
+This story teaches the core fundamentals of preparation, fact-gathering, interviewing and effective writing, which, as I told our Student-Journalists, “You’ll need for any career.</description>
+    </item>
+    
+    <item>
+      <title>Second assignment</title>
+      <link>https://rucer.netlify.app/assignment/assignmenttwo/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://rucer.netlify.app/assignment/assignmenttwo/</guid>
+      <description>By Michael J. Jordan, Visiting Professor, Renmin University of China Our second course assignment was an illuminating piece of Foreign Reporting — or, as I also presented it: International Storytelling. From that, we produced this collection of 14 “humanized, fact-based” stories.
+A core challenge was to show my young Chinese Student-Journalists how to think – and produce stories – as I would, as a Foreign Correspondent. No small feat, as they’d be doing so from their ownhomeland.</description>
+    </item>
+    
+  </channel>
+</rss>
