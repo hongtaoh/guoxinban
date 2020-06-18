@@ -93,7 +93,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 #latest-post { display: none; }
 .post-container { margin: 0 40px; }
 .post-header { border-bottom: 6px solid #ae0b2a; margin: 0 0 20px; padding: 0 0 20px; text-align: center; text-transform: uppercase; }
-.site-title { font-size: 52px; font-weight: 700; margin: 15px 0; text-align: center; text-transform: uppercase; color: #ae0b2a; }
+.site-title-ruc { font-size: 52px; font-weight: 700; margin: 15px 0; text-align: center; text-transform: uppercase; color: #ae0b2a; }
 .post-title, .page-title { font-size: 52px; font-weight: 700; margin: 15px 0; text-align: center; text-transform: uppercase; }
 .page-title { margin: 15px 40px; }
 .post-date, .post-reading, .blog-description { color: #aeadad; font-size: 14px; font-weight: 600; line-height: 1; margin: 25px 0 0; }
