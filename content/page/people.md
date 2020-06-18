@@ -2,7 +2,7 @@
 title = "Who We Are And What We Do"
 date = 2015-04-03T02:13:50Z
 author = "Michael J. Jordan"
-description = "From One of China’s Historic Journalism Schools, Our Team of Renmin University Student-Storytellers Opens a Window (In English!) Onto the Countless Ways This Country – and Its People – Are Changing Today"
+description = "From One of China’s Historic Journalism Schools, Our Team of Renmin University Student-Storytellers Opens a Window (In English!) Onto the Countless Ways This Country — and Its People — Are Changing Today"
 +++
 ### By Michael J. Jordan, Visiting Professor, Renmin University of China
 

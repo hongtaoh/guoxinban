@@ -5,7 +5,7 @@ main { display: block; }
 h1 { font-size: 2em; margin: .67em 0; }
 hr { box-sizing: content-box; height: 0; overflow: visible; }
 pre { font-family: monospace, monospace; font-size: 1em; }
-/*a { background-color: transparent; }*/
+a { background-color: transparent; }
 a {
   outline: none;
 }
@@ -49,7 +49,7 @@ h4 { font-size: 18px; margin-bottom: 18px; }
 h5 { font-size: 16px; margin-bottom: 15px; }
 h6 { font-size: 14px; margin-bottom: 12px; }
 p { line-height: 1.8; margin: 0 0 30px; }
-.site-nav-item a { color: #ae0b2a; text-decoration: none; }
+a { color: #ae0b2a; text-decoration: none; }
 ul, ol { line-height: 1.4; margin: 0 0 20px; }
 ul ul, ul ol, ol ul, ol ol { margin: 10px 0 0 20px; }
 ul li, ol li { margin: 0 0 2px; }
@@ -92,7 +92,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .site-logo img { margin: 0; }
 .site-nav { list-style: none; margin: 28px 0 10px; padding: 0; }
 .site-nav-item { display: inline-block; font-size: 14px; font-weight: 700; margin: 0 10px; }
-.site-nav-item a:hover { color: #424242; }
+/*.site-nav-item a:hover { color: #424242; }*/
 #latest-post { display: none; }
 .post-container { margin: 0 40px; }
 .post-header { border-bottom: 6px solid #ae0b2a; margin: 0 0 20px; padding: 0 0 20px; text-align: center; }
@@ -103,7 +103,8 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-date a, .post-reading a, .blog-description a { color: #aeadad; }
 .post-date a:hover, .post-reading a:hover, .blog-description a:hover { color: #f03838; }
 .post-line:after { border-bottom: 1px dotted #303030; content: ""; display: block; margin: 40px auto 0; width: 100px; }
-/*.post-content a:hover { border-bottom: 1px dotted #f03838; padding: 0 0 2px; }*/
+.post-content a:hover { border-bottom: 1px dotted #f03838; padding: 0 0 2px; }
+/*The following codes about ".post-content a" come from here: https://github.com/rbind/blogdown-demo/blob/master/themes/hugo-lithium-theme/static/css/main.css 
 .post-content a {
   color:#424242;
   text-decoration: none;
@@ -113,7 +114,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-content a:hover,
 .post-content a:focus {
   background: rgba(174, 11, 42, 0.3);
-}
+} */
 .post-content:last-child { margin-bottom: 0; }
 .post-content .footnote { border-spacing: 0; margin-bottom: 0; }
 .post-content .footnote .label+td { width: 100%; }
