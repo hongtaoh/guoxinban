@@ -27,9 +27,9 @@ For the 27-year-old product manager, this was already his fourth marathon of the
 
 “My work requires me to sit in front of a computer all day long, leaving me exhausted, achy and sore,” he says.
 
-Du isn’t alone, as [millions of Chinese](http://usa.chinadaily.com.cn/epaper/2015-12/31/content_22885583.htm) have begun doing regular physical activities regularly, even participating more often in sporting events.
+Du isn’t alone, as [millions of Chinese](http://usa.chinadaily.com.cn/epaper/2015-12/31/content_22885583.htm) have begun doing physical activities regularly, even participating more often in sporting events.
 
-Thanks to [an increasing number of Chinese escaping poverty](https://www.project-syndicate.org/commentary/china-end-rural-poverty-by-2020-by-hannah-ryder-1-2017-03) and becoming more health-conscious, people in the country are now able and willing to do sport every day.
+Thanks to [an increasing number of Chinese escaping poverty](https://www.project-syndicate.org/commentary/china-end-rural-poverty-by-2020-by-hannah-ryder-1-2017-03) and becoming more health-conscious, people in the country are now able and willing to play sports every day.
 
 Indeed, China, a nation now approaching 1.4 billion people, is witnessing [a growing middle class](https://www.businessinsider.com/chinas-middle-class-is-exploding-2016-8) who are willing to spend money on leisure and outdoor activities. [A Nielsen report](https://www.nielsen.com/cn/en/insights/article/2016/business-opportunity-looms-as-marathon-mania-sweeps-across-china/) shows, for example, that 36% of core marathoners – those who complete at least four marathons over a three-year period – occupy middle- and senior-management positions, 54% of them own cars, and 42% of them are VIPs at banks.
 
