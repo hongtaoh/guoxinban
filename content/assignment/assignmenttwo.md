@@ -2,7 +2,7 @@
 title = "Second assignment"
 date = 2015-04-03T02:13:50Z
 author = "Michael J. Jordan"
-description = "International Journalism"
+description = ": International Journalism"
 +++
 ### By Michael J. Jordan, Visiting Professor, Renmin University of China
 

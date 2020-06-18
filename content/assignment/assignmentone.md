@@ -2,7 +2,7 @@
 title = "First assignment"
 date = 2015-04-03T02:13:50Z
 author = "Michael J. Jordan"
-description = "News Writing"
+description = ": News Writing"
 +++
 ### By Michael J. Jordan, Visiting Professor, Renmin University of China
 
