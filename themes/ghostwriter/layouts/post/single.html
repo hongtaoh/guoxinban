@@ -4,11 +4,12 @@
     <article class="post-container" itemscope="" itemtype="http://schema.org/BlogPosting">
     	 
         {{ partial "post-header.html" . }}
-        <span class="btn">
+        <span>
         	{{ with .Site.Params.GithubEdit}}
-             <a href='{{ . }}{{ $.Scratch.Get "FilePath" }}'>Edit this page</a>
+             <a href='{{ . }}{{ $.Scratch.Get "FilePath" }}' class="btn">Edit this page on GitHub</a>
              {{ end }}
         </span>
+        </p>
         {{ partial "post-content.html" . }}
 
         {{ partial "post-footer.html" . }}

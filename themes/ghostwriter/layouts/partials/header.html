@@ -9,7 +9,11 @@
         <meta name="MobileOptimized" content="320">
         {{ hugo.Generator }}
         <meta name="robots" content="index,follow">
+        <!-- The following three codes come from https://stackoverflow.com/questions/14896612/how-to-make-an-image-full-screen-on-mobile-devices-but-not-in-desktop -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="HandheldFriendly" content="true">
         {{ if .Site.Params.opengraph }}{{ partial "opengraph.html" . }}{{ end }}
         <link rel="stylesheet" href="{{ .Site.BaseURL }}dist/site.css">
         <link rel="stylesheet" href="{{ .Site.BaseURL }}dist/syntax.css">

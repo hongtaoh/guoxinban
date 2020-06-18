@@ -63,7 +63,7 @@ params:
   readingTimeText: "Estimated reading time:"
   fathomUrl: ""
   fathomSiteId: ""
-  GithubEdit: "https://github.com/hongtaoh/guoxinban/edit/sources/"
+  GithubEdit: "https://github.com/hongtaoh/guoxinban/edit/sources/content/"
 
 permalinks:
   post: "/:year/:month/:day/:filename/"
