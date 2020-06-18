@@ -57,7 +57,7 @@ Indeed, demand is exploding: it is anticipated that in 2020, [over 800 marathons
 
 “Marathon races are [the new blue sea of the sports industry](https://sports.qq.com/a/20170103/036030.htm) in China,” says Du Zhaocai, director of the Administration Center of Track and Field Sports in China.
 
-{{<figure src="/images/post/marathons-number.png" title="Growing number marathons in China" caption="Data drawn from anhuinews.com, sohu.com, and other sources; Graphic by Hongtao Hao">}}
+{{<figure src="/images/post/marathons-number.png" title="Growing number of marathons in China" caption="Data drawn from anhuinews.com, sohu.com, and other sources; Graphic by Hongtao Hao">}}
 
 In terms of sports industry, central and local governments are only the director; the real actors are companies.
 
