@@ -39,7 +39,7 @@ For example, I reported the Confucius Institution’s volunteer program this sem
 
 Through attending this course, I got to know what to consider first before deciding on an appropriate topic: why smart curious international audiences will be interested in this?
 
-When Shihao and I were choosing “Earth Hour” as the story for our first assignment, we asked ourselves the above question and concluded that since China is the largestemitter of carbon dioxide in the world, whether its people are striving to conserve energy is of significance to the whole world. Because of this, our story will engage those smart curious international audiences.
+When Shihao and I were choosing “Earth Hour” as the story for our first assignment, we asked ourselves the above question and concluded that since China is the largest emitter of carbon dioxide in the world, whether its people are striving to conserve energy is of significance to the whole world. Because of this, our story will engage those smart curious international audiences.
 
 Also, I learned how to “connect the dots”, reveal the “big picture”, and stick to the “diamond structure”. I learned to “show”, not to “tell”. For example, in the second assignment, Ray and I talked about the boom in the number of marathons in China. But, conscious of the “big picture”, we went on to discuss the development of sports industry in China. When we were trying to convey the idea that “marathons are developing at a staggering pace” and “an increasing number of Chinese are becoming health-conscious and doing regular physical activities”, we did not “tell” these facts; rather, we pinpointed the upward trends by adding figures where the growths are explicitly “shown”.
 
